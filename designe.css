@@ -2,7 +2,14 @@ html,body{
     margin:0px;
     height:100%;
   }
-
+  button {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    justify-items: center;
+     /* Adjust as needed */
+  }
+  
   .bg_heart{
     position:relative;
     top:0;
